@@ -11,6 +11,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+gems:
+  -jemoji
+
+
 theme: jekyll-agency
 
 url    : "" # the heading-fontbase hostname & protocol for your site, e.g. http://example.com
@@ -31,9 +35,6 @@ collections:
   portfolio:
 
 markdown: kramdown
-
-gems:
-  -jemoji
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
