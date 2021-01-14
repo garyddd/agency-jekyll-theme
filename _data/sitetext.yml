@@ -48,11 +48,11 @@ resource:
 
 portfolio:
     title: "Publications"
-    text: "For a full list of published papers, see [here](http://127.0.0.1:4000/publication)."
+    text: "For a full list of published papers, see [here](http://garyddd.github.io/publication)."
     section: portfolio
     closebutton: "Close Project"
     button: View More
-    buttonlink: "http://127.0.0.1:4000/publication"
+    buttonlink: "publication"
 
 
 timeline:
