@@ -1,28 +1,15 @@
   <!-- Footer -->
   <footer class="footer" id="footer" style="background-color:white;">
-    <div class="container">
+    <div class="container" align='center'>
       <div class="row align-items-center">
-        <div class="col-md-4">
-          <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-        </div>
-		<!-- Social Media -->
-        <div class="col-md-4">
-          <ul class="list-inline social-buttons">
-		  {% for link in site.data.sitetext.footer.social  %}
-            <li class="list-inline-item">
-			  {% if link.url %}
-              <a href="{{ link.url }}">
-                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-              </a>
-			  {% endif %}
-            </li>
-			{% endfor %}
-          </ul>
+        <div class="col-md-4" align='center'>
+
         </div>
 		<!-- Legal -->
-        <div class="col-md-4">
+        <div class="col-md-4" align='center'>
           <ul class="list-inline quicklinks">
             <li class="list-inline-item">
+              <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
               <a href="legal">{{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}</a>
             </li>
           </ul>

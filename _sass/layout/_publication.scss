@@ -1,0 +1,12 @@
+.pub{
+  font-size: 100%;
+  color: black;
+  font-weight: 400;
+  @include heading-font;
+  .pub-text{
+    font-size: 150%;
+  }
+  .pub-year{
+    font-size: 300%;
+  }
+}

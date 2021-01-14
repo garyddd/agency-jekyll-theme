@@ -1,18 +1,21 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "Research"
+    section: research
 
-  - title: "Portfolio"
+  - title: "Publications"
     section: portfolio
-    
-  - title: "About"
-    section: timeline
+
+  - title: "Resources"
+    section: resource
 
   - title: "Team"
     section: team
 
+  - title: "About"
+    section: timeline
+
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "中文(简体)"
+    url:

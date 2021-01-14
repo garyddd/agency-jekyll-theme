@@ -17,6 +17,15 @@ header.masthead {
       margin-bottom: 25px;
       @include serif-font;
     }
+     // tianjin university
+    .intro-text-stitle {
+      font-size: 30px;
+      font-style: italic;
+      line-height: 22px;
+      margin-bottom: 25px;
+      @include serif-font;
+
+    }
     .intro-heading {
       font-size: 50px;
       font-weight: 700;
@@ -35,8 +44,19 @@ header.masthead {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-        margin-bottom: 25px;
+        margin-top: -50px;
+        margin-bottom: -30px;
         @include serif-font;
+      }
+      // tianjin university
+      .intro-text-stitle {
+        font-size: 35px;
+        font-style: italic;
+        line-height: 22px;
+        margin-top: -30px;
+        margin-bottom: -40px;
+        @include serif-font;
+
       }
       .intro-heading {
         font-size: 75px;

@@ -13,7 +13,7 @@
   }
   .navbar-brand {
     color: $primary;
-    @include script-font;
+    @include serif-font;
     &.active,
     &:active,
     &:focus,
@@ -21,6 +21,7 @@
       color: darken($primary, 10%);
     }
   }
+
   .navbar-nav {
     .nav-item {
       .nav-link {
