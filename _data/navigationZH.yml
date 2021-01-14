@@ -1,21 +1,21 @@
 nav:
   - title: "研究"
-    section: research
+    section: researchZH
 
   - title: "文章"
     section: portfolio
 
   - title: "资源"
-    section: resource
+    section: resourceZH
 
   - title: "队伍"
-    section: team
+    section: teamZH
 
   - title: "关于"
-    section: timeline
+    section: timelineZH
 
   - title: "联系"
-    section: contact
+    section: contactZH
 
   - title: "English"
-    url:
+    url: index

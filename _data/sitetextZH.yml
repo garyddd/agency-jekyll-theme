@@ -1,18 +1,18 @@
 header:
     title: WEICOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
-    stitle: Academy of Medical Engineering and Translational Medicine<br> Tianjin University
-    text: 'we are intersted in bioinformation and immunotherapy.'
+    stitle: 医学工程与转化医学研究院<br> 天津大学
+    text: '我们聚焦于XXXXXX'
     buttonall:
-        - button: Join us!
+        - button: 加入我们
           buttonlink: "#contact"
-        - button: Research
+        - button: 研究方向
           buttonlink: "#research"
 
 
 research:
-    title: "Research"
-    text: "research interest"
-    section: research
+    title: "研究方向"
+    text: "研究兴趣"
+    section: researchZH
     list:
       - title: "First "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -28,9 +28,9 @@ research:
         #img: assets/img/portfolio/06-thumbnail.jpg
 
 resource:
-    title: "Resources"
-    text: "some resources"
-    section: resource
+    title: "资源"
+    text: "一些资源"
+    section: resourceZH
     list:
       - title: "First "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -47,24 +47,24 @@ resource:
 
 
 portfolio:
-    title: "Publications"
-    text: "For a full list of published papers, see [here](http://garyddd.github.io/publication)."
+    title: "文章"
+    text: "完整文章列表，请点击[这儿](http://garyddd.github.io/publication)."
     section: portfolio
     closebutton: "Close Project"
-    button: View More
+    button: 查看更多
     buttonlink: "publication"
 
 
 timeline:
-    title: "About"
-    text: "About Our Lab"
-    section: timeline
+    title: "关于"
+    text: "关于我们的实验室"
+    section: timelineZH
     # left is the default
     #start_align: "left"
     events:
       - title: "First"
         year: "2020-2021"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "这是中文, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Lab is Born"
@@ -83,12 +83,12 @@ timeline:
 
 
 team:
-    title: "TEAM MEMBER"
-    text: "team member and profile"
+    title: "队伍成员"
+    text: "队伍成员及简介"
     subtext:
-    section: team
+    section: teamZH
     people:
-      - name: "Jian Zhang"
+      - name: "张健"
         role: "role"
         description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb"
         image: assets/img/team/500x500.jpg
@@ -99,7 +99,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Yunsheng Dou"
+      - name: "豆允生"
         role: "role"
         description: balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb
         image: assets/img/team/2.jpg
@@ -122,9 +122,9 @@ team:
             icon: fab fa-linkedin-in
 
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+    title: "联系我们"
+    text:
+    section: contactZH
 
 footer:
     legal: "Privacy Policy"

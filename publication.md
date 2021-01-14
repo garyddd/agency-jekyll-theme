@@ -72,6 +72,6 @@ background: grey
 
 
 
-:school:<b>Address</b> : 92 Weijin RoadNankai District, Tianjin, China
+<b>Address</b> : 92 Weijin RoadNankai District, Tianjin, China
 
-:mailbox:<b>Email</b> : {{ site.email }}
+<b>Email</b> : {{ site.email }}

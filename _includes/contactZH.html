@@ -3,9 +3,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.contact.title | markdownify | default: Contact Us }}</h2>
-          <h3 class="section-subheading" ><b>Email</b> : yourname@email.com</h3>
-          <h3 class="section-subheading_next" ><b>Address</b> : 92 Weijin RoadNankai District, Tianjin, China</h3>
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetextZH.contact.title | markdownify | default: Contact Us }}</h2>
+          <h3 class="section-subheading" ><b>邮箱</b> : {{ site.email }}</h3>
+          <h3 class="section-subheading_next" ><b>地址</b> : 天津市南开区卫津路92号</h3>
         </div>
       </div>
       <div class="row">
@@ -37,7 +37,7 @@
               <div class="clearfix"></div>
               <div class="col-lg-12 text-center">
                 <div id="success"></div>
-                <button type="submit" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                <button type="submit" class="btn btn-primary btn-xl text-uppercase" type="submit">发送邮件</button>
               </div>
 			  <input type="text" name="_gotcha" style="display:none">
 			  <input type="hidden" name="_next" value="#"/>
