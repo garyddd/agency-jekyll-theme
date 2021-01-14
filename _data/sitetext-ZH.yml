@@ -1,7 +1,7 @@
 header:
     title: WEICOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
     stitle: Academy of Medical Engineering and Translational Medicine<br> Tianjin University
-    text: 'XXX XXXX XXXXX  XX X XX X X X X X.'
+    text: 'we are intersted in bioinformation and immunotherapy.'
     buttonall:
         - button: Join us!
           buttonlink: "#contact"

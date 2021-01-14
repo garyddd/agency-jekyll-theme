@@ -1,0 +1,21 @@
+nav:
+  - title: "研究"
+    section: research
+
+  - title: "文章"
+    section: portfolio
+
+  - title: "资源"
+    section: resource
+
+  - title: "队伍"
+    section: team
+
+  - title: "关于"
+    section: timeline
+
+  - title: "联系"
+    section: contact
+
+  - title: "English"
+    url:
