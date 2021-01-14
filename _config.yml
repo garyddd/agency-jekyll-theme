@@ -11,8 +11,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-gems:
-  -jemoji
+plugins:
+  - jemoji
 
 
 theme: jekyll-agency
