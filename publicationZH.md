@@ -31,7 +31,7 @@ background: grey
 	<ul style='list-style: none' class='pub-text'>
 		<li>
 			Genome Medicine | <br>
-			Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
+			·Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
 			J. Zhang, X. Hu, J. Wang, A. Das Sahu, D. Cohen, J. Fan, B. Wang, J. Fu, S. Gu, M. Sade-Feldman, N. Hacohen, W. Li, X. Ying, B. Li, X.S. Liu
 			<hr />
 		</li>
@@ -132,7 +132,7 @@ background: grey
 		</li>
 	</ul>
 </div>
-**CONTACT US**
+**联系我们**
 
 
 

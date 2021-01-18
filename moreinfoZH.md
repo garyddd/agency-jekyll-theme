@@ -37,10 +37,10 @@ background: grey
 	<p class='pub-info'>社会学术兼职</p>
 	<p clss='pub-text'>中国免疫学会会员</p>
 </div>
-**CONTACT US**
+**联系我们**
 
 
 
-<b>地址</b> : 天津市南开区卫津路92号
+<b>地址</b> : 天津市南开区卫津路92号天津大学医工院10号楼404室
 
 <b>邮箱</b> : {{ site.email }}

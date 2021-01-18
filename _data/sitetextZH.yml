@@ -93,7 +93,7 @@ team:
         image: assets/img/team/1.jpg
         social:
           - url: https:/garyddd.github.io/moreinfoZH
-            icon: far fa-id-card-o
+            icon: fas fa-id-card
       - name: "豆允生"
         description: "实验室在读硕士研究生。"
         image: assets/img/team/2.jpg
