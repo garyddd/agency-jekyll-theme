@@ -72,6 +72,6 @@ background: grey
 
 
 
-<b>Address</b> : 92 Weijin RoadNankai District, Tianjin, China
+<b>地址</b> : 天津市南开区卫津路92号
 
-<b>Email</b> : {{ site.email }}
+<b>邮箱</b> : {{ site.email }}
