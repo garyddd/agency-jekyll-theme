@@ -91,14 +91,8 @@ team:
       - name: "Jian Zhang"
         role: "role"
         description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb[[more]](https://garyddd.github.io/moreinfo)"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https:/baidu.com
-            icon: far fa-address-card
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        image: assets/img/team/1.jpg
+        text: '[[more]](https://garyddd.github.io/moreinfo)'
       - name: "Yunsheng Dou"
         role: "role"
         description: balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb
