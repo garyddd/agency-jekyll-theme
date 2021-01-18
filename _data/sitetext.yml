@@ -92,7 +92,6 @@ team:
         role: "role"
         description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb[[more]](https://garyddd.github.io/moreinfo)"
         image: assets/img/team/1.jpg
-        text: '[[more]](https://garyddd.github.io/moreinfo)'
       - name: "Yunsheng Dou"
         role: "role"
         description: balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb

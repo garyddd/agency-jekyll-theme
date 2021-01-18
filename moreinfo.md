@@ -4,7 +4,7 @@ title: More
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">关于</h2>
+	<h2 class="section-heading text-uppercase">More about Jian Zhang</h2>
 </div>
 
 <div class='pub'>
