@@ -89,8 +89,11 @@ team:
     section: teamZH
     people:
       - name: "张 健"
-        description: "张健，博士，副教授，入选天津大学-北洋学者英才计划。主要聚焦于生物医学大数据（分子组学数据）处理与分析关键技术，重点面向肿瘤精准医疗和传染病防控安全实际需求开展研究工作。近年来以技术骨干、参与人身份参加了5项包括国家科技重大专项、国防科技创新特区项目、国家自然科学基金委面上项目以及国家863计划项目的实施；发表SCI期刊论文13篇，其中以第一作者（含并列第一）身份在包括Nature Genetics, Nature Biotechnology, Genome Medicine在内的权威国际期刊发表论文4篇，以署名作者身份在Nature Genetics, Nature Communication, Clinical Cancer Research等杂志发表论文9篇，平均影响因子11.868，谷歌H指数8。[[更多]](http://garyddd.github.io/moreinfoZH)"
+        description: "张健，博士，副教授，入选天津大学-北洋学者英才计划。主要聚焦于生物医学大数据（分子组学数据）处理与分析关键技术，重点面向肿瘤精准医疗和传染病防控安全实际需求开展研究工作。近年来以技术骨干、参与人身份参加了5项包括国家科技重大专项、国防科技创新特区项目、国家自然科学基金委面上项目以及国家863计划项目的实施；发表SCI期刊论文13篇，其中以第一作者（含并列第一）身份在包括Nature Genetics, Nature Biotechnology, Genome Medicine在内的权威国际期刊发表论文4篇，以署名作者身份在Nature Genetics, Nature Communication, Clinical Cancer Research等杂志发表论文9篇，平均影响因子11.868，谷歌H指数8。"
         image: assets/img/team/1.jpg
+        social:
+          - url: https:/garyddd.github.io/moreinfoZH
+            icon: far fa-id-card-o
       - name: "豆允生"
         description: "实验室在读硕士研究生。"
         image: assets/img/team/2.jpg

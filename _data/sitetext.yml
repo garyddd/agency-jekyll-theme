@@ -90,8 +90,11 @@ team:
     people:
       - name: "Jian Zhang"
         role: "role"
-        description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb[[more]](https://garyddd.github.io/moreinfo)"
+        description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb"
         image: assets/img/team/1.jpg
+        social:
+          - url: https:/garyddd.github.io/moreinfo
+            icon: far fa-id-card-o
       - name: "Yunsheng Dou"
         role: "role"
         description: balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb
