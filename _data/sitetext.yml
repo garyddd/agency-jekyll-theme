@@ -90,7 +90,7 @@ team:
     people:
       - name: "Jian Zhang"
         role: "role"
-        description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb"
+        description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb[more](https://garyddd.github.io/moreinfo)"
         image: assets/img/team/500x500.jpg
         social:
           - url: https:/baidu.com

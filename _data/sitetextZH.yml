@@ -1,7 +1,7 @@
 header:
     title: WEICOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
     stitle: 医学工程与转化医学研究院<br> 天津大学
-    text: '我们聚焦于XXXXXX'
+    text: '我们聚焦于计算免疫学和生物基因组学数据挖掘'
     buttonall:
         - button: 加入我们
           buttonlink: "#contact"
@@ -14,15 +14,15 @@ research:
     text: "研究兴趣"
     section: researchZH
     list:
-      - title: "First "
+      - title: "计算免疫学 "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Scend "
+      - title: "计算免疫学 "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "生物基因组学数据挖掘"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
         #img: assets/img/portfolio/06-thumbnail.jpg
@@ -62,12 +62,12 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-      - title: "First"
+      - title: "开始"
         year: "2020-2021"
         desc: "这是中文, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Lab is Born"
+      - title: "人员加入"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
@@ -83,43 +83,17 @@ timeline:
 
 
 team:
-    title: "队伍成员"
-    text: "队伍成员及简介"
+    title: "团队成员"
+    text: "团队成员及简介"
     subtext:
     section: teamZH
     people:
-      - name: "张健"
-        role: "role"
-        description: "balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https:/baidu.com
-            icon: far fa-address-card
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: "张 健"
+        description: "张健，博士，副教授，入选天津大学-北洋学者英才计划。主要聚焦于生物医学大数据（分子组学数据）处理与分析关键技术，重点面向肿瘤精准医疗和传染病防控安全实际需求开展研究工作。近年来以技术骨干、参与人身份参加了5项包括国家科技重大专项、国防科技创新特区项目、国家自然科学基金委面上项目以及国家863计划项目的实施；发表SCI期刊论文13篇，其中以第一作者（含并列第一）身份在包括Nature Genetics, Nature Biotechnology, Genome Medicine在内的权威国际期刊发表论文4篇，以署名作者身份在Nature Genetics, Nature Communication, Clinical Cancer Research等杂志发表论文9篇，平均影响因子11.868，谷歌H指数8。[[更多](http://garyddd.github.io/moreinfoZH)]"
+        image: assets/img/team/1.jpg
       - name: "豆允生"
-        role: "role"
-        description: balabalbala blabalbal baabdbasdbasjdbjsakbdjksabdk asb
+        description: "实验室在读硕士研究生。"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
 contact:
     title: "联系我们"
