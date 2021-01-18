@@ -12,9 +12,9 @@ background: grey
 
 	<ul style='list-style: none' class='pub-text'>
 		<li>
-			Clinical Cancer Research | <br></li>
-		<li class='pub-title'>Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers</li> <br>
-		<li>H. Zhang, L. Liu, J. Zhang, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li
+			Clinical Cancer Research | <br>
+			Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers <br>
+			H. Zhang, L. Liu, J. Zhang, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li
 			<hr />
 		</li>
 		<li>
@@ -31,7 +31,7 @@ background: grey
 	<ul style='list-style: none' class='pub-text'>
 		<li>
 			Genome Medicine | <br>
-			·Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
+			Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
 			J. Zhang, X. Hu, J. Wang, A. Das Sahu, D. Cohen, J. Fan, B. Wang, J. Fu, S. Gu, M. Sade-Feldman, N. Hacohen, W. Li, X. Ying, B. Li, X.S. Liu
 			<hr />
 		</li>
