@@ -19,7 +19,7 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <p class='pub-title' style='font-weight: bold;'>{{ project.caption.title }}</p>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
@@ -27,7 +27,7 @@
     </div>
   </div>
     <div align='center'>
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetextZH.portfolio.buttonlink }}" align='right'>{{ site.data.sitetextZH.portfolio.button }}</a>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.portfolio.buttonlink }}" align='right'>{{ site.data.sitetext.portfolio.button }}</a>
     </div>
 </section>
 {% include modals.html %}
