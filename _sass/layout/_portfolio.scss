@@ -44,7 +44,7 @@
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
-      text-align: center;
+      text-align: left;
       background-color: $white;
       h4 {
         margin: 0;
@@ -97,6 +97,7 @@
     }
     img {
       margin-bottom: 30px;
+      float: left;
     }
     button {
       cursor: pointer;
