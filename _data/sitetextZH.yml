@@ -49,7 +49,7 @@ resource:
 portfolio:
     title: "文章"
     text: "完整文章列表，请点击[这儿](http://garyddd.github.io/publicationZH)."
-    section: publicationZH
+    section: portfolio
     closebutton: "Close Project"
     button: 查看更多
     buttonlink: "publicationZH"
