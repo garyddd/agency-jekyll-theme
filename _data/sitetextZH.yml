@@ -11,7 +11,6 @@ header:
 
 research:
     title: "研究方向"
-    text: "研究兴趣"
     section: researchZH
     list:
       - title: "计算免疫学 "
@@ -29,7 +28,6 @@ research:
 
 resource:
     title: "资源"
-    text: "一些资源"
     section: resourceZH
     list:
       - title: "First "
@@ -48,7 +46,6 @@ resource:
 
 portfolio:
     title: "文章"
-    text: "完整文章列表，请点击[这儿](http://garyddd.github.io/publicationZH)."
     section: portfolio
     closebutton: "Close Project"
     button: 查看更多
@@ -57,7 +54,6 @@ portfolio:
 
 timeline:
     title: "关于"
-    text: "关于我们的实验室"
     section: timelineZH
     # left is the default
     #start_align: "left"
@@ -84,7 +80,6 @@ timeline:
 
 team:
     title: "团队成员"
-    text: "团队成员及简介"
     subtext:
     section: teamZH
     people:

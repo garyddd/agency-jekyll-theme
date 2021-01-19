@@ -11,7 +11,6 @@ header:
 
 research:
     title: "Research"
-    text: "research interest"
     section: research
     list:
       - title: "First "
@@ -29,7 +28,6 @@ research:
 
 resource:
     title: "Resources"
-    text: "some resources"
     section: resource
     list:
       - title: "First "
@@ -48,18 +46,15 @@ resource:
 
 portfolio:
     title: "Publications"
-    text: "For a full list of published papers, see [here](http://garyddd.github.io/publication)."
     section: portfolio
     closebutton: "Close Paper"
     rawbutton: "Journal Page"
-    rawbtnherf: 'https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0681-3'
     button: View More
     buttonlink: "publication"
 
 
 timeline:
     title: "About"
-    text: "About Our Lab"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -86,7 +81,6 @@ timeline:
 
 team:
     title: "TEAM MEMBER"
-    text: "team member and profile"
     subtext:
     section: team
     people:

@@ -15,13 +15,12 @@
                 <!-- Project Details Go Here -->
                 <p class="pub-title" style='font-weight: bold;'>{{ project.title }}</p>
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
 				<p>{{ project.content }}</p>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
                   {{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</button>
                   <button class="btn btn-primary" type="button">
-                      <a href="{{ site.data.sitetext.portfolio.rawbtnherf }}" style='color:#FFF;text-decoration:none;' target='_blank' align='right'>{{ site.data.sitetext.portfolio.rawbutton }}</a>
+                      <a href="{{ project.herf }}" style='color:#FFF;text-decoration:none;' target='_blank' align='right'>{{ site.data.sitetext.portfolio.rawbutton }}</a>
                   </button>
 
               </div>
