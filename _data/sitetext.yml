@@ -50,7 +50,9 @@ portfolio:
     title: "Publications"
     text: "For a full list of published papers, see [here](http://garyddd.github.io/publication)."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Paper"
+    rawbutton: "More"
+    rawbtnherf: 'https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0681-3'
     button: View More
     buttonlink: "publication"
 

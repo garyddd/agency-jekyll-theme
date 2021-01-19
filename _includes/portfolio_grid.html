@@ -9,7 +9,7 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
-      <div class="col-md-6 col-sm-6 portfolio-item">
+      <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -28,6 +28,7 @@
   </div>
     <div align='center'>
       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.portfolio.buttonlink }}" align='right'>{{ site.data.sitetext.portfolio.button }}</a>
+      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.portfolio.rawbtnherf }}" align='right'>{{ site.data.sitetext.portfolio.button }}</a>
     </div>
 </section>
 {% include modals.html %}
