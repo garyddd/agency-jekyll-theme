@@ -13,14 +13,17 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="pub-title text-uppercase">{{ project.title }}</h2>
+                <p class="pub-title text-uppercase">{{ project.title }}</p>
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
                 <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
 				<p>{{ project.content }}</p>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
                   {{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</button>
-                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.portfolio.rawbtnherf }}" align='right'>{{ site.data.sitetext.portfolio.rawbutton }}</a>
+                  <button class="btn btn-primary" type="button">
+                      <a href="{{ site.data.sitetext.portfolio.rawbtnherf }}" align='right'>{{ site.data.sitetext.portfolio.rawbutton }}</a>
+                  </button>
+
               </div>
             </div>
           </div>
