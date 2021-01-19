@@ -17,14 +17,14 @@ research:
       - title: "First "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-book-medical #find more at https://fontawesome.com/icons
       - title: "Scend "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
-        icon: fas fa-laptop
+        icon: fas fa-laptop-medical
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-dna
         #img: assets/img/portfolio/06-thumbnail.jpg
 
 resource:
@@ -35,14 +35,14 @@ resource:
       - title: "First "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Scend "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
-        icon: fas fa-laptop
+        icon: fas fa-tools
       - title: "and" #"[Markdown](https://baidu.com)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-heartbeat
         #img: assets/img/portfolio/06-thumbnail.jpg
 
 

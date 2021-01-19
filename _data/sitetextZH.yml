@@ -1,7 +1,7 @@
 header:
     title: WEICOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
     stitle: 医学工程与转化医学研究院<br> 天津大学
-    text: '我们聚焦于计算免疫学和生物基因组学数据挖掘'
+    text: '我们聚焦于计算免疫学和组学数据挖掘与建模'
     buttonall:
         - button: 加入我们
           buttonlink: "#contact"
@@ -17,14 +17,14 @@ research:
       - title: "计算免疫学 "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-book-medical #find more at https://fontawesome.com/icons
       - title: "生物信息学 "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
-        icon: fas fa-laptop
-      - title: "生物基因组学数据挖掘"
+        icon: fas fa-laptop-medical
+      - title: "组学数据挖掘与建模"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-dna
         #img: assets/img/portfolio/06-thumbnail.jpg
 
 resource:
@@ -35,21 +35,21 @@ resource:
       - title: "First "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Scend "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
-        icon: fas fa-laptop
+        icon: fas fa-tools
       - title: "and" #"[Markdown](https://baidu.com)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-heartbeat
         #img: assets/img/portfolio/06-thumbnail.jpg
 
 
 portfolio:
     title: "文章"
     text: "完整文章列表，请点击[这儿](http://garyddd.github.io/publicationZH)."
-    section: portfolio
+    section: publicationZH
     closebutton: "Close Project"
     button: 查看更多
     buttonlink: "publicationZH"
