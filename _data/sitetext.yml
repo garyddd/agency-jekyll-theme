@@ -1,7 +1,7 @@
 header:
     title: WEICOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
     stitle: Academy of Medical Engineering and Translational Medicine<br> Tianjin University
-    text: 'XXX XXXX XXXXX  XX X XX X X X X X.'
+    text: 'We focus on computational immunology and omics data mining and modeling.'
     buttonall:
         - button: Join us!
           buttonlink: "#contact"
@@ -13,15 +13,15 @@ research:
     title: "Research"
     section: research
     list:
-      - title: "First "
+      - title: "Computational Immunology "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/04-thumbnail.jpg
         icon: fas fa-book-medical #find more at https://fontawesome.com/icons
-      - title: "Scend "
+      - title: "Bioinformatics "
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #img: assets/img/portfolio/05-thumbnail.jpg
         icon: fas fa-laptop-medical
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Omics Data Mining and Modeling "
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-dna
         #img: assets/img/portfolio/06-thumbnail.jpg
@@ -59,7 +59,7 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-      - title: "First"
+      - title: "Start"
         year: "2020-2021"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
