@@ -47,7 +47,7 @@ resource:
 portfolio:
     title: "Publications"
     section: portfolio
-    text: "Reccent Highlights"
+    text: "● Recent Highlights"
     closebutton: "Close Paper"
     rawbutton: "Journal Page"
     button: View More
