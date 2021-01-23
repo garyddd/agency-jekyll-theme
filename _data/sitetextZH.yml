@@ -46,7 +46,7 @@ resource:
 
 portfolio:
     title: "文章"
-    section: portfolioZH
+    section: portfolio
     closebutton: "Close Project"
     button: 查看更多
     buttonlink: "publicationZH"
