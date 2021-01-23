@@ -85,9 +85,7 @@ background: grey
 			<hr />
 		</li>
 		<li>
-			Transcriptional response profiles of paired tumor-normal samples offer novel perspectives in pan-cancer analysi <br>
-			S. Hu, H. Yuan, Z. Li, J. Zhang, J. Wu, Y. Chen, Q. Shi, W. Ren, N. Shao, X. Ying <br>
-			Oncotarget
+			● S. Haihua Chu, Jonathan R. Chabon, Chloe N. Matovina, Janna C. Minehart, Bo-Ruei Chen, <b>J. Zhang</b>, Vipul Kumar, Elsa Callen-Moreu, Putzer J Hung, Zhaohui Feng, Richard P. Koche, X. Shirley Liu, Jayanta Chaudhuri, Andre Nussenzweig, Barry P. Sleckman, and Scott A. Armstrong. Loss of H3K36 Methyltransferase SETD2 Impairs V(D)J Recombination during Lymphoid Development. iScience, 2020, 23(3): 100941.
 			<hr />
 		</li>
 		<li>
