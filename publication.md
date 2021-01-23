@@ -13,7 +13,7 @@ background: grey
 	<ul style='list-style: none' class='pub-text'>
 		<li>
 			Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers <br>
-			H. Zhang, L. Liu, J. Zhang, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li, <br>
+			H. Zhang, L. Liu, <b>J. Zhang</b>, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li, <br>
 			Clinical Cancer Research
 			<hr />
 		</li>
