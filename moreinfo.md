@@ -1,5 +1,5 @@
 ---
-layout: pageZH
+layout: page
 title: More
 background: grey
 ---
