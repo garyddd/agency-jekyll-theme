@@ -10,7 +10,7 @@ background: grey
 <div class='pub' id='pub-2020'>
 	<p class='pub-year'>2020</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
 			Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers <br>
 			H. Zhang, L. Liu, <b>J. Zhang</b>, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li, <br>
@@ -28,7 +28,7 @@ background: grey
 <div class='pub' id='pub-2019'>
 	<p class='pub-year'>2019</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
 			Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
 			J. Zhang, X. Hu, J. Wang, A. Das Sahu, D. Cohen, J. Fan, B. Wang, J. Fu, S. Gu, M. Sade-Feldman, N. Hacohen, W. Li, X. Ying, B. Li, X.S. Liu <br>
@@ -53,7 +53,7 @@ background: grey
 <div class='pub' id='pub-2018'>
 	<p class='pub-year'>2018</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 	<li>
 		Evaluation of immune repertoire inference methods from RNA-seq data <br>
 		X. Hu*, J. Zhang*, J.S. Liu, B. Li, X.S. Liu <br>
@@ -77,7 +77,7 @@ background: grey
 <div class='pub' id='pub-2017'>
 	<p class='pub-year'>2017</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
 			Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data <br>
 			B. Li, T. Li, B. Wang, R. Dou, J. Zhang, J.S. Liu, X.S. Liu <br>
@@ -105,7 +105,7 @@ background: grey
 <div class='pub' id='pub-2016'>
 	<p class='pub-year'>2016</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
 			A Tumor-Specific Prognostic Long Non-Coding RNA Signature in Gastric Cancer <br>
 			W. Ren, J. Zhang, W. Li, Z. Li, S. Hu, J. Suo, X. Ying <br>
