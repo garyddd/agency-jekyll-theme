@@ -39,10 +39,10 @@
         <div class="intro-lead-in">{{ site.data.sitetextZH.header.title | markdownify }}</div>
 	  {%- endif -%}
     {%- if site.data.sitetextZH.header.stitle -%}
-        <div class="intro-text-stitle">{{ site.data.sitetextZH.header.stitle | markdownify }}</div>
+        <div class="intro-text-stitle" style='font-style: normal;'><p font-family:"楷体","楷体_GB2312">天津大学&nbsp;&nbsp;</p>医学工程与转化医学研究院</div>
     {%- endif -%}
 	  {%- if site.data.sitetextZH.header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetextZH.header.text | markdownify }}</div>
+        <div class="intro-heading text-uppercase" style="margin-top: 50px;">{{ site.data.sitetextZH.header.text | markdownify }}</div>
 	  {%- endif -%}
     {%- for btn in site.data.sitetextZH.header.buttonall -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ btn.buttonlink }}">{{ btn.button }}</a>

@@ -1,6 +1,6 @@
 header:
     title: WELCOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
-    stitle: Academy of Medical Engineering and Translational Medicine / Tianjin University
+    stitle: Academy of Medical Engineering and Translational Medicine, Tianjin University
     text: 'We focus on computational immunology and omics data mining and modeling'
     buttonall:
         - button: Join us!
@@ -47,7 +47,7 @@ resource:
 portfolio:
     title: "Publications"
     section: portfolio
-    text: "● Recent Highlights"
+    text: "Recent Highlights"
     closebutton: "Close Paper"
     rawbutton: "Journal Page"
     button: View More

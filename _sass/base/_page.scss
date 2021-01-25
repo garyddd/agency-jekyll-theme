@@ -45,6 +45,15 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
+  h3.section-sheading {
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-transform: none;
+    text-align: left;
+    @include serif-font;
+  }
   h3.section-subheading_next {
     color: white;
     font-size: 16px;

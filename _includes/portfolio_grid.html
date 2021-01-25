@@ -4,7 +4,11 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">{{ site.data.sitetext.portfolio.title | markdownify | default: Portfolio" }}</h2>
-        <h3 class="section-sheading" style='text-align:left;'>{{ site.data.sitetext.portfolio.text | markdownify }}</h3>
+        <h3 class="section-sheading" style='font-style: italic;'>
+         <ul>
+          <li>{{ site.data.sitetext.portfolio.text | markdownify }}</li>
+         </ul>
+        </h3>
       </div>
     </div>
     <div class="row">

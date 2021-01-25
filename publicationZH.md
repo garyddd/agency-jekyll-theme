@@ -3,24 +3,32 @@ layout: pageZH
 title: Publications
 background: grey
 ---
+---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">文章</h2>
+	<h2 class="section-heading text-uppercase" style='text-align:left'>文章</h2>
+	<h3 class="section-sheading" style='font-style: italic;'># Co-first authors; &#42; Co-corresponding authors</h3>
 </div>
 
+<div class='pub' id='pub-2021'>
+	<p class='pub-year'>2021</p>
+
+	<ul style='list-style: disc;' class='pub-text'>
+		<li>
+			Wang H#, Feng C#, Lu M, Zhang B, Xu Y, Zeng Q, Xi J, Zhou J, Ying X, <b>Zhang J</b>&#42;, Yue W&#42;, Pei X&#42;. Integrative single-cell transcriptome analysis reveals a subpopulation of fibroblasts associated with favorable prognosis of liver cancer patients[J]. <i>Translational Oncology</i>, 2021, 14(1): 100981.
+			<hr />
+		</li>
+	</ul>
+</div>
 <div class='pub' id='pub-2020'>
 	<p class='pub-year'>2020</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			Clinical Cancer Research | <br>
-			Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers <br>
-			H. Zhang, L. Liu, J. Zhang, J. Chen, J. Ye, S. Shukla, J. Qiao, X. Zhan, H. Chen, C. Wu, Y. Fu, B. Li
+			Chu S H, Chabon J R, Matovina C N, Minehart J C, Chen B-R, <b>Zhang J</b>, Kumar V, Xiong Y, Callen E, Hung P J, Feng Z, Koche R P, Liu X S, Chaudhuri J, Nussenzweig A, Sleckman B P, Armstrong S A. Loss of H3K36 Methyltransferase SETD2 Impairs V(D)J Recombination during Lymphoid Development[J]. <i>iScience</i>, 2020, 23(3): 100941.
 			<hr />
 		</li>
 		<li>
-			iScience | <br>
-			Loss of H3K36 Methyltransferase SETD2 Impairs V(D)J Recombination during Lymphoid Development <br>
-			S. Haihua Chu, Jonathan R. Chabon, Chloe N. Matovina, Janna C. Minehart, Bo-Ruei Chen, J. Zhang, Vipul Kumar, Elsa Callen-Moreu, Putzer J Hung, Zhaohui Feng, Richard P. Koche, X. Shirley Liu, Jayanta Chaudhuri, Andre Nussenzweig, Barry P. Sleckman, and Scott A. Armstrong
+			Zhang H#, Liu L#, <b>Zhang J</b>, Chen J, Ye J, Shukla S, Qiao J, Zhan X, Chen H, Wu C J, Fu Y-X&#42;, Li B&#42;. Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers[J]. <i>Clinical Cancer Research</i>, 2020, 26(6): 1359–1371.
 			<hr />
 		</li>
 	</ul>
@@ -28,23 +36,17 @@ background: grey
 <div class='pub' id='pub-2019'>
 	<p class='pub-year'>2019</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			Genome Medicine | <br>
-			Immune receptor repertoires in pediatric and adult acute myeloid leukemia <br>
-			J. Zhang, X. Hu, J. Wang, A. Das Sahu, D. Cohen, J. Fan, B. Wang, J. Fu, S. Gu, M. Sade-Feldman, N. Hacohen, W. Li, X. Ying, B. Li, X.S. Liu
+			<b>Zhang J</b>, Hu X, Wang J, Sahu A D, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X&#42;, Li B&#42;, Liu X S&#42;. Immune receptor repertoires in pediatric and adult acute myeloid leukemia[J]. <i>Genome Medicine</i>, 2019, 11(1): 73.
 			<hr />
 		</li>
 		<li>
-			Nature Genetics | <br>
-			Landscape of B cell immunity and related immune evasion in human cancers <br>
-			X. Hu*, J. Zhang*, J. Wang, J. Fu, T. Li, X. Zheng, B. Wang, S. Gu, P. Jiang, J. Fan, X. Ying, J. Zhang, M.C. Carroll, K.W. Wucherpfennig, N. Hacohen, F. Zhang, P. Zhang, J.S. Liu, B. Li, X.S. Liu
+			<b>Zhang J</b>, Qian L, Wu J, Lu D, Yuan H, Li W, Ying X&#42;, Hu S&#42;. Up-regulation of FAM64A promotes epithelial-to-mesenchymal transition and enhances stemness features in breast cancer cells[J]. <i>Biochemical and Biophysical Research Communications</i>, 2019.
 			<hr />
 		</li>
 		<li>
-			Biochemical and Biophysical Research Communications | <br>
-			Up-regulation of FAM64A promotes epithelial-to-mesenchymal transition and enhances stemness features in breast cancer cells <br>
-			J. Zhang, L. Qian, J. Wu, D. Lu, H. Yuan, W. Li, X. Ying, S. Hu
+			Hu X#, <b>Zhang J</b>#, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll M C, Wucherpfennig K W, Hacohen N, Zhang F, Zhang P, Liu J S&#42;, Li B&#42;, Liu X S&#42;. Landscape of B cell immunity and related immune evasion in human cancers[J]. <i>Nature Genetics</i>, 2019, 51(3): 560–567.
 			<hr />
 		</li>
 
@@ -53,23 +55,17 @@ background: grey
 <div class='pub' id='pub-2018'>
 	<p class='pub-year'>2018</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 	<li>
-		Nature Biotechnology | <br>
-		Evaluation of immune repertoire inference methods from RNA-seq data <br>
-		X. Hu*, J. Zhang*, J.S. Liu, B. Li, X.S. Liu
+		Hu X#, <b>Zhang J</b>#, Liu J S, Li B&#42;, Liu X S&#42;. Evaluation of immune repertoire inference methods from RNA-seq data[J]. <i>Nature Biotechnology</i>, 2018, 36(11): 1034–1034.
 		<hr />
 	</li>
 		<li>
-			BMC Bioinformatics | <br>
-			VIPER: Visualization Pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis <br>
-			M. Cornwell, M. Vangala, L. Taing, Z. Herbert, J. Köster, B. Li, H. Sun, T. Li, J. Zhang, X. Qiu, M. Pun, R. Jeselsohn, M. Brown, X.S. Liu, H.W. Long
+			Cornwell M, Vangala M, Taing L, Herbert Z, Köster J, Li B, Sun H, Li T, <b>Zhang J</b>, Qiu X, Pun M, Jeselsohn R, Brown M, Liu X S, Long H W. VIPER: Visualization Pipeline for RNA-seq, a Snakemake workflow for efficient and complete RNA-seq analysis[J]. <i>BMC Bioinformatics</i>, 2018, 19: 135.
 			<hr />
 		</li>
 		<li>
-			OncoImmunology | <br>
-			Analysis of PD1, PDL1, PDL2 expression and T cells infiltration in 1014 gastric cancer patients <br>
-			X. Xing, J. Guo, G. Ding, B. Li, B. Dong, Q. Feng, S. Li, J. Zhang, X. Ying, X. Cheng, T. Guo, H. Du, Y. Hu, T. Zhou, X. Wang, L. Li, Q. Li, M. Xie, L. Li, X. Gao, F. Shan, Z. Li, S. Jia, X. Wen, J. Wang, J. Ji
+			Xing X, Guo J, Ding G, Li B, Dong B, Feng Q, Li S, <b>Zhang J</b>, Ying X, Cheng X, Guo T, Du H, Hu Y, Zhou T, Wang X, Li L, Li Q, Xie M, Li L, Gao X, Shan F, Li Z, Jia S, Wen X, Wang J, Ji J. Analysis of PD1, PDL1, PDL2 expression and T cells infiltration in 1014 gastric cancer patients[J]. <i>OncoImmunology</i>, 2018, 7(3): e1356144.
 			<hr />
 		</li>
 	</ul>
@@ -77,65 +73,40 @@ background: grey
 <div class='pub' id='pub-2017'>
 	<p class='pub-year'>2017</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			Nature Genetics | <br>
-			Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data <br>
-			B. Li, T. Li, B. Wang, R. Dou, J. Zhang, J.S. Liu, X.S. Liu
+			Hu S, Yuan H, Li Z, <b>Zhang J</b>, Wu J, Chen Y, Shi Q, Ren W, Shao N, Ying X. Transcriptional response profiles of paired tumor-normal samples offer novel perspectives in pan-cancer analysis[J]. <i>Oncotarget</i>, 2017, 8(25): 41334–41347.
 			<hr />
 		</li>
 		<li>
-			Oncotarget | <br>
-			Transcriptional response profiles of paired tumor-normal samples offer novel perspectives in pan-cancer analysi <br>
-			S. Hu, H. Yuan, Z. Li, J. Zhang, J. Wu, Y. Chen, Q. Shi, W. Ren, N. Shao, X. Ying
+			Li B, Li T, Wang B, Dou R, <b>Zhang J</b>, Liu J S, Liu X S. Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA–seq data[J]. <i>Nature Genetics</i>, 2017, 49(4): 482–483.
 			<hr />
 		</li>
 		<li>
-			Scientific Reports | <br>
-			BCIP: a gene-centered platform for identifying potential regulatory genes in breast cancer <br>
-			J. Wu, S. Hu, Y. Chen, Z. Li, J. Zhang, H. Yuan, Q. Shi, N. Shao, X. Ying
+			Wu J, Hu S, Chen Y, Li Z, <b>Zhang J</b>, Yuan H, Shi Q, Shao N, Ying X. BCIP: a gene-centered platform for identifying potential regulatory genes in breast cancer[J]. <i>Scientific Reports</i>, 2017, 7: 45235.
 			<hr />
 		</li>
 		<li>
-			Microbiome | <br>
-			Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola <br>
-			Y. Chen, Z. Li, S. Hu, J. Zhang, J. Wu, N. Shao, X. Bo, M. Ni, X. Ying
+			Chen Y, Li Z, Hu S, <b>Zhang J</b>, Wu J, Shao N, Bo X, Ni M, Ying X. Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola[J]. <i>Microbiome</i>, 2017, 5: 15.
 			<hr />
 		</li>
-		<li>
-
-		</li>
-
 	</ul>
 </div>
 <div class='pub' id='pub-2016'>
 	<p class='pub-year'>2016</p>
 
-	<ul style='list-style: none' class='pub-text'>
+	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			Medical Science Monitor | <br>
-			A Tumor-Specific Prognostic Long Non-Coding RNA Signature in Gastric Cancer <br>
-			W. Ren, J. Zhang, W. Li, Z. Li, S. Hu, J. Suo, X. Ying
+			Ren W, <b>Zhang J</b>, Li W, Li Z, Hu S, Suo J, Ying X. A Tumor-Specific Prognostic Long Non-Coding RNA Signature in Gastric Cancer[J]. <i>Medical Science Monitor</i>, 2016, 22: 3647–3657.
 			<hr />
 		</li>
 		<li>
-			Nature Communications | <br>
-			SUMOylated NKAP is essential for chromosome alignment by anchoring CENP-E to kinetochores <br>
-			T. Li, L. Chen, J. Cheng, J. Dai, Y. Huang, J. Zhang, Z. Liu, A. Li, N. Li, H. Wang, X. Yin, K. He, M. Yu, T. Zhou, X. Zhang, Q. Xia
+			Li T, Chen L, Cheng J, Dai J, Huang Y, <b>Zhang J</b>, Liu Z, Li A, Li N, Wang H, Yin X, He K, Yu M, Zhou T, Zhang X, Xia Q. SUMOylated NKAP is essential for chromosome alignment by anchoring CENP-E to kinetochores[J]. <i>Nature Communications</i>, 2016, 7: 12969.
 			<hr />
 		</li>
 		<li>
-			Oncotarget | <br>
-			Integrative analysis of protein-coding and non-coding RNAs identifies clinically relevant subtypes of clear cell renal cell carcinoma <br>
-			Z. Li, Y. Chen, S. Hu, J. Zhang, J. Wu, W. Ren, N. Shao, X. Ying
+			Li Z, Chen Y, Hu S, <b>Zhang J</b>, Wu J, Ren W, Shao N, Ying X. Integrative analysis of protein-coding and non-coding RNAs identifies clinically relevant subtypes of clear cell renal cell carcinoma[J].<i> Oncotarget</i>, 2016, 7(50): 82671–82685.
 			<hr />
 		</li>
 	</ul>
 </div>
-**联系我们**
-
-
-
-<b>地址</b> : 天津市南开区卫津路92号
-
-<b>邮箱</b> : {{ site.email }}
