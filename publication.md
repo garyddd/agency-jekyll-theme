@@ -5,7 +5,7 @@ background: grey
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase" style='text-align:left'>Publications</h2>
-	<h3 class="section-sheading" style='font-style: italic;'># Co-first authors; &#42; Co-corresponding authors</h3>
+	<h3 class="section-sheading" style='text-align:left'># Co-first authors; &#42; Co-corresponding authors</h3>
 </div>
 
 <div class='pub' id='pub-2021'>

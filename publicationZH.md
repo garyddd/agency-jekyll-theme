@@ -3,10 +3,9 @@ layout: pageZH
 title: Publications
 background: grey
 ---
----
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase" style='text-align:left'>文章</h2>
-	<h3 class="section-sheading" style='font-style: italic;'># Co-first authors; &#42; Co-corresponding authors</h3>
+	<p class="section-sheading" style='text-align:left;font-size:1.2rem;'># 共同第一作者; * 共同通讯作者</p>
 </div>
 
 <div class='pub' id='pub-2021'>
