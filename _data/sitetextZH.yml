@@ -93,7 +93,7 @@ team:
             icon: fas fa-id-card
       - name: "豆允生"
         role: 硕士生
-        description: "实验室在读硕士研究生。"
+        description: "豆允生是天津大学智能医学工程的硕士生。他目前对组学数据挖掘和建模感兴趣，通过对数据的挖掘与分析，可以解决或提出一些在医学上有趣的现象与问题。本科就读于河海大学通信工程专业。"
         image: assets/img/team/2.jpg
 
 contact:

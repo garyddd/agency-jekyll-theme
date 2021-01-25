@@ -94,7 +94,7 @@ team:
             icon: far fa-id-card-o
       - name: "Yunsheng Dou"
         role: "GRADUATE STUDENT"
-        description: Grauate student
+        description: 'Yunsheng Dou is a TJU master student in intelligent medical engineering. He is currently interested in omics data mining and modeling, and then through the analysis of the data, he can solve or raise some interesting phenomena and problems in medicine. Yunsheng got his bachelor’s degree of communication engineering at Hohai University in China.'
         image: assets/img/team/2.jpg
 
 
