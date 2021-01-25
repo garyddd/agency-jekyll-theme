@@ -13,7 +13,7 @@ background: grey
 
 	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			Wang H#, Feng C#, Lu M, Zhang B, Xu Y, Zeng Q, Xi J, Zhou J, Ying X, <b>Zhang J</b>&#42;, Yue W&#42;, Pei X&#42;. Integrative single-cell transcriptome analysis reveals a subpopulation of fibroblasts associated with favorable prognosis of liver cancer patients[J]. <i>Translational Oncology</i>, 2021, 14(1): 100981.
+			Wang H#, Feng C#, Lu M, Zhang B, Xu Y, Zeng Q, Xi J, Zhou J, Ying X, <b>Zhang J*</b>, Yue W*, Pei X*. Integrative single-cell transcriptome analysis reveals a subpopulation of fibroblasts associated with favorable prognosis of liver cancer patients[J]. <i>Translational Oncology</i>, 2021, 14(1): 100981.
 			<hr />
 		</li>
 	</ul>
