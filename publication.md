@@ -3,7 +3,7 @@ layout: page
 title: Publications
 background: grey
 ---
-<div class="col-lg-12" style="padding-left:0;">>
+<div class="col-lg-12" style="padding-left:0;">
 	<h2 class="section-heading text-uppercase">Publications</h2>
 	<p class="section-sheading" style='font-size:1.2rem;'># Co-first authors; * Co-corresponding authors</p>
 </div>
