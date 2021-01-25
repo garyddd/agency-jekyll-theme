@@ -3,9 +3,9 @@ layout: pageZH
 title: Publications
 background: grey
 ---
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase" style='text-align:left'>文章</h2>
-	<p class="section-sheading" style='text-align:left;font-size:1.2rem;'># 共同第一作者; * 共同通讯作者</p>
+<div class="col-lg-12" style="padding-left:0;">
+	<h2 class="section-heading text-uppercase">文章</h2>
+	<p class="section-sheading" style='font-size:1.2rem;'># 共同第一作者; * 共同通讯作者</p>
 </div>
 
 <div class='pub' id='pub-2021'>
@@ -27,7 +27,7 @@ background: grey
 			<hr />
 		</li>
 		<li>
-			Zhang H#, Liu L#, <b>Zhang J</b>, Chen J, Ye J, Shukla S, Qiao J, Zhan X, Chen H, Wu C J, Fu Y-X&#42;, Li B&#42;. Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers[J]. <i>Clinical Cancer Research</i>, 2020, 26(6): 1359–1371.
+			Zhang H#, Liu L#, <b>Zhang J</b>, Chen J, Ye J, Shukla S, Qiao J, Zhan X, Chen H, Wu C J, Fu Y-X*;, Li B*;. Investigation of Antigen-Specific T-Cell Receptor Clusters in Human Cancers[J]. <i>Clinical Cancer Research</i>, 2020, 26(6): 1359–1371.
 			<hr />
 		</li>
 	</ul>
@@ -37,15 +37,15 @@ background: grey
 
 	<ul style='list-style: disc;' class='pub-text'>
 		<li>
-			<b>Zhang J</b>, Hu X, Wang J, Sahu A D, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X&#42;, Li B&#42;, Liu X S&#42;. Immune receptor repertoires in pediatric and adult acute myeloid leukemia[J]. <i>Genome Medicine</i>, 2019, 11(1): 73.
+			<b>Zhang J</b>, Hu X, Wang J, Sahu A D, Cohen D, Song L, Ouyang Z, Fan J, Wang B, Fu J, Gu S, Sade-Feldman M, Hacohen N, Li W, Ying X*;, Li B*;, Liu X S*;. Immune receptor repertoires in pediatric and adult acute myeloid leukemia[J]. <i>Genome Medicine</i>, 2019, 11(1): 73.
 			<hr />
 		</li>
 		<li>
-			<b>Zhang J</b>, Qian L, Wu J, Lu D, Yuan H, Li W, Ying X&#42;, Hu S&#42;. Up-regulation of FAM64A promotes epithelial-to-mesenchymal transition and enhances stemness features in breast cancer cells[J]. <i>Biochemical and Biophysical Research Communications</i>, 2019.
+			<b>Zhang J</b>, Qian L, Wu J, Lu D, Yuan H, Li W, Ying X*;, Hu S*;. Up-regulation of FAM64A promotes epithelial-to-mesenchymal transition and enhances stemness features in breast cancer cells[J]. <i>Biochemical and Biophysical Research Communications</i>, 2019.
 			<hr />
 		</li>
 		<li>
-			Hu X#, <b>Zhang J</b>#, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll M C, Wucherpfennig K W, Hacohen N, Zhang F, Zhang P, Liu J S&#42;, Li B&#42;, Liu X S&#42;. Landscape of B cell immunity and related immune evasion in human cancers[J]. <i>Nature Genetics</i>, 2019, 51(3): 560–567.
+			Hu X#, <b>Zhang J</b>#, Wang J, Fu J, Li T, Zheng X, Wang B, Gu S, Jiang P, Fan J, Ying X, Zhang J, Carroll M C, Wucherpfennig K W, Hacohen N, Zhang F, Zhang P, Liu J S*;, Li B*;, Liu X S*;. Landscape of B cell immunity and related immune evasion in human cancers[J]. <i>Nature Genetics</i>, 2019, 51(3): 560–567.
 			<hr />
 		</li>
 
@@ -56,7 +56,7 @@ background: grey
 
 	<ul style='list-style: disc;' class='pub-text'>
 	<li>
-		Hu X#, <b>Zhang J</b>#, Liu J S, Li B&#42;, Liu X S&#42;. Evaluation of immune repertoire inference methods from RNA-seq data[J]. <i>Nature Biotechnology</i>, 2018, 36(11): 1034–1034.
+		Hu X#, <b>Zhang J</b>#, Liu J S, Li B*;, Liu X S*;. Evaluation of immune repertoire inference methods from RNA-seq data[J]. <i>Nature Biotechnology</i>, 2018, 36(11): 1034–1034.
 		<hr />
 	</li>
 		<li>
