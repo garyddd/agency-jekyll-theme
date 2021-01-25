@@ -1,6 +1,6 @@
 header:
     title: WELCOME TO ZHANG LAB #<br> Academy of Medical Engineering and Translational Medicine Tianjin University
-    stitle: '  医学工程与转化医学研究院'
+    stitle: '天津大学  医学工程与转化医学研究院'
     text: '我们聚焦于计算免疫学和组学数据挖掘与建模'
     buttonall:
         - button: 加入我们
@@ -45,9 +45,9 @@ resource:
 
 
 portfolio:
-    title: "文章"
+    title: "研究成果"
     section: portfolio
-    text: "最新突破"
+    text: "代表性论文"
     closebutton: "Close Project"
     button: 查看更多
     buttonlink: "publicationZH"

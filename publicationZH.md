@@ -4,7 +4,7 @@ title: Publications
 background: grey
 ---
 <div class="col-lg-12" style="padding-left:0;">
-	<h2 class="section-heading text-uppercase">文章</h2>
+	<h2 class="section-heading text-uppercase">已发表论文</h2>
 	<p class="section-sheading" style='font-size:1.2rem;'># 共同第一作者; * 共同通讯作者</p>
 </div>
 
